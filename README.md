@@ -11,15 +11,14 @@ Hi, I'm I Made Nobel Saputra, a passionate web developer with 3 years of experie
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="cursor: default;" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="cursor: default;" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="cursor: default;" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="cursor: default;" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" style="cursor: default;" />
+  <img src="https://img.shields.io/badge/Next.js-dddddd?style=for-the-badge&logo=nextdotjs&logoColor=white" style="cursor: default;" />
 </p>
 
 #### My Skills [ Back End ]
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="cursor: default;" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" style="cursor: default;" />
+  <img src="https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=black" style="cursor: default;" />
  
 </p>
 
