@@ -1,6 +1,6 @@
 ## Welcome
 
-Hi, I'm I Made Nobel Saputra, a passionate web developer with 3 years of experience in IT and website development. I enjoy coding and building websites, and I'm always eager to learn new web technologies
+Hi, I'm I Nobel, a passionate web developer with 3 years of experience in IT and website development. I enjoy coding and building websites, and I'm always eager to learn new web technologies
 #
 
 #### My Skills [ Front End ]
