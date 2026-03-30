@@ -30,9 +30,4 @@ Hi, I'm I Nobel, a passionate web developer with 3 years of experience in IT and
 
 ---
 
-[![Nobel GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nobel-saputra&show_icons=true&theme=gruvbox)](https://github.com/nobel-saputra/)
-![](https://nirzak-streak-stats.vercel.app/?user=nobel-saputra&theme=dark&hide_border=false)<br/>
-
----
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nobel-saputra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
