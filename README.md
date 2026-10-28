@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:3a3a3a&height=220&section=header&text=I%20NOBEL&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Web%20Developer%20%E2%80%A2%20System%20Online&descAlignY=62&descSize=20&descColor=bdbdbd&stroke=ffffff&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:3a3a3a&height=220&section=header&text=%20NOBEL&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Web%20Developer%20%E2%80%A2%20System%20Online&descAlignY=62&descSize=20&descColor=bdbdbd&stroke=ffffff&strokeWidth=1" width="100%" />
 
 <a href="https://github.com/nobel-saputra">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=FFFFFF&background=00000000&center=true&vCenter=true&repeat=true&width=640&lines=%3E+booting+nobel.exe+...;%3E+3+years+in+the+grid;%3E+building+modern+web+systems;%3E+always+debugging+reality_" alt="Typing SVG" />
