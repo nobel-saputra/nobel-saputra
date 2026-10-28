@@ -49,7 +49,6 @@ nobel@grid:~$ ls ./focus
 
 <img src="https://streak-stats.demolab.com?user=nobel-saputra&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=BDBDBD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777&stroke=333333" width="70%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nobel-saputra&bg_color=000000&color=bdbdbd&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff&hide_border=true&radius=8" width="100%" />
 
 </div>
 
