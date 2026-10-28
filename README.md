@@ -19,7 +19,7 @@
 
 ```bash
 nobel@grid:~$ whoami
-> I Nobel — passionate web developer, 3 years jacked into IT & web dev.
+> Nobel — passionate web developer, 3 years jacked into IT & web dev.
 
 nobel@grid:~$ cat status.txt
 > Always compiling new tech. Always shipping.
