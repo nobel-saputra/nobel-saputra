@@ -1,13 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b2b2b&height=200&section=header&text=Nobel%20&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer&descAlignY=58&descSize=18&descColor=bdbdbd" width="100%" />
+<img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/n-logo.svg" width="140" alt="N logo" />
+
+**Developer**
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=560&lines=Building+fast%2C+clean%2C+and+scalable+web+apps;Frontend+%26+Backend+Development;3%2B+years+of+experience+in+web+development" alt="Typing SVG" />
-
-<p>
-  <a href="https://github.com/nobel-saputra"><img src="https://img.shields.io/github/followers/nobel-saputra?label=Followers&style=flat-square&color=000000&labelColor=2b2b2b" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nobel-saputra&label=Profile%20views&color=000000&style=flat-square" />
-</p>
 
 </div>
 
@@ -15,10 +12,10 @@
 
 Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT and web development. I enjoy building responsive, user-friendly web applications and I'm always learning new technologies to deliver better products.
 
-- 💼 Focused on **frontend and backend web development**
-- 🎨 Interested in **UI design** and clean, maintainable code
-- 🌱 Currently exploring new tools in the JavaScript ecosystem
-- 📫 Open to collaboration and freelance projects
+- Focused on **frontend and backend web development**
+- Interested in **UI design** and clean, maintainable code
+- Currently exploring new tools in the JavaScript ecosystem
+- Open to collaboration and freelance projects
 
 ## Tech Stack
 
