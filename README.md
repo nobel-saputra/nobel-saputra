@@ -20,7 +20,7 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 - Currently exploring new tools in the JavaScript ecosystem
 - Open to collaboration and freelance projects
 
-<div style="height:1px; background:linear-gradient(90deg, rgba(255,255,255,0), rgba(255,255,255,0.9), rgba(255,255,255,0)); box-shadow:0 0 8px rgba(255,255,255,0.8); margin:32px 0;"></div>
+<div style="height:2px; background:linear-gradient(90deg, rgba(255,255,255,0), #ffffff, rgba(255,255,255,0)); box-shadow:0 0 14px rgba(255,255,255,0.95), 0 0 28px rgba(255,255,255,0.5); margin:32px 0;"></div>
 
 ## Tech Stack
 
@@ -66,8 +66,6 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" style="margin:0 4px 4px 0;" /></a>
 </p>
 </div>
-
-<div style="height:1px; background:linear-gradient(90deg, rgba(255,255,255,0), rgba(255,255,255,0.9), rgba(255,255,255,0)); box-shadow:0 0 8px rgba(255,255,255,0.8); margin:32px 0;"></div>
 
 ## GitHub Stats
 
