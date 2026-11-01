@@ -1,5 +1,7 @@
 <div align="center">
 
+<p><a href="https://nobelsaputra.my.id"><img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/website-pill.svg?v=1" alt="nobelsaputra.my.id" /></a></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/n-logo-dark.svg?v=3" />
   <img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/n-logo.svg?v=3" width="140" alt="N logo" />
@@ -96,6 +98,5 @@ Hi, I'm **I Made Nobel Saputra**, a web developer who enjoys building responsive
 <p>
   <a href="https://github.com/nobel-saputra"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://dribbble.com/nobelsaputra"><img src="https://img.shields.io/badge/Dribbble-000000?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
-  <a href="https://nobelsaputra.my.id"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 

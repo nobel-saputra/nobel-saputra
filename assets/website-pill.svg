@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="212" height="38" viewBox="0 0 212 38" fill="none" role="img" aria-label="nobelsaputra.my.id">
+  <defs>
+    <linearGradient id="pill" x1="0" y1="0" x2="0" y2="38" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#16161c"/>
+      <stop offset="1" stop-color="#0b0b0f"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-60%" width="140%" height="220%">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect x="0.75" y="0.75" width="210.5" height="36.5" rx="18.25" fill="url(#pill)" stroke="#3a3a42" stroke-width="1.5"/>
+  <g filter="url(#soft)" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round">
+    <circle cx="26" cy="19" r="8.4"/>
+    <ellipse cx="26" cy="19" rx="3.6" ry="8.4"/>
+    <line x1="17.9" y1="19" x2="34.1" y2="19"/>
+  </g>
+  <text x="44" y="23.5" font-family="Poppins,Inter,system-ui,sans-serif" font-size="13" font-weight="500" letter-spacing="0.6" fill="#e8e8ee">nobelsaputra.my.id</text>
+</svg>
