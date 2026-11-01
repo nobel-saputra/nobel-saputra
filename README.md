@@ -22,42 +22,24 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 
 ## Tech Stack
 
-**Frontend**
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
-</p>
+<div style="flex:1 1 280px; background:#0b0b0f; border:1px solid #26262e; border-radius:18px; padding:26px 18px;">
+<h3 align="center" style="font-family:Inter,system-ui,sans-serif; margin:0 0 16px; font-size:0.95rem; color:#f5f5f7; letter-spacing:2px; text-transform:uppercase;">Frontend</h3>
+<p align="center" style="margin:0;"><img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,reactnative,expo&theme=dark" alt="Frontend skills" /></p>
+</div>
 
-**Backend**
+<div style="flex:1 1 280px; background:#0b0b0f; border:1px solid #26262e; border-radius:18px; padding:26px 18px;">
+<h3 align="center" style="font-family:Inter,system-ui,sans-serif; margin:0 0 16px; font-size:0.95rem; color:#f5f5f7; letter-spacing:2px; text-transform:uppercase;">Backend</h3>
+<p align="center" style="margin:0;"><img src="https://skillicons.dev/icons?i=nodejs,express,typescript,postgres,supabase,docker&theme=dark" alt="Backend skills" /></p>
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+</div>
 
-**Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/pnpm-000000?style=for-the-badge&logo=pnpm&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
+<div style="background:#0b0b0f; border:1px solid #26262e; border-radius:18px; padding:26px 18px; margin-top:20px;">
+<h3 align="center" style="font-family:Inter,system-ui,sans-serif; margin:0 0 16px; font-size:0.95rem; color:#f5f5f7; letter-spacing:2px; text-transform:uppercase;">Tools</h3>
+<p align="center" style="margin:0;"><img src="https://skillicons.dev/icons?i=git,github,pnpm,npm,vercel,postman,androidstudio,linux,figma&theme=dark" alt="Tools" /></p>
+</div>
 
 ## GitHub Stats
 
