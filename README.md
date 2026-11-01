@@ -96,5 +96,6 @@ Hi, I'm **I Made Nobel Saputra**, a web developer who enjoys building responsive
 <p>
   <a href="https://github.com/nobel-saputra"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://dribbble.com/nobelsaputra"><img src="https://img.shields.io/badge/Dribbble-000000?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+  <a href="https://nobelsaputra.my.id"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
