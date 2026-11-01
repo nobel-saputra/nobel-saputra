@@ -15,7 +15,7 @@
 
 <h3 align="left" style="font-family:'Poppins',Inter,system-ui,sans-serif; font-size:1.5em; font-weight:600; letter-spacing:2px; margin:24px 0 16px;">ABOUT ME</h3>
 
-Hi, I'm **Nobel Saputra**, a web developer who enjoys building responsive, user-friendly web applications and I'm always learning new technologies to deliver better products.
+Hi, I'm **I Made Nobel Saputra**, a web developer who enjoys building responsive, user-friendly web applications and I'm always learning new technologies to deliver better products.
 
 - Focused on **frontend and backend web development**
 - Interested in **UI design** and clean, maintainable code
@@ -83,7 +83,7 @@ Hi, I'm **Nobel Saputra**, a web developer who enjoys building responsive, user-
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/contributions-coklat.svg?v=2" alt="Nobel Saputra's GitHub contribution graph" width="100%" />
+<img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/contributions-coklat.svg?v=2" alt="I Made Nobel Saputra's GitHub contribution graph" width="100%" />
 
 <p align="center" style="font-family:'Poppins',Inter,system-ui,sans-serif; font-size:1.4em; font-weight:600; color:#c9c9cf; margin:14px 0 0;">107 contributions in the last year</p>
 
