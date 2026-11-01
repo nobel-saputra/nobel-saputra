@@ -26,19 +26,43 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 
 <div style="flex:1 1 380px; min-width:360px; background:#0b0b0f; border:1px solid #26262e; border-radius:18px; padding:26px 18px;">
 <h3 align="center" style="font-family:'Poppins',Inter,system-ui,sans-serif; margin:0 0 16px; font-size:0.95rem; color:#f5f5f7; letter-spacing:2px; text-transform:uppercase;">Frontend</h3>
-<p align="left" style="margin:0;"><img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,reactnative,expo&theme=dark" alt="Frontend skills" /></p>
+<p align="left" style="margin:0;">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" style="margin:0 4px 4px 0;" /></a>
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" style="margin:0 4px 4px 0;" /></a>
+<a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" style="margin:0 4px 4px 0;" /></a>
+<a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" style="margin:0 4px 4px 0;" /></a>
+<a href="https://reactnative.dev"><img src="https://skillicons.dev/icons?i=reactnative&theme=dark" alt="React Native" style="margin:0 4px 4px 0;" /></a>
+<a href="https://expo.dev"><img src="https://skillicons.dev/icons?i=expo&theme=dark" alt="Expo" style="margin:0 4px 4px 0;" /></a>
+</p>
 </div>
 
 <div style="flex:1 1 380px; min-width:360px; background:#0b0b0f; border:1px solid #26262e; border-radius:18px; padding:26px 18px;">
 <h3 align="center" style="font-family:'Poppins',Inter,system-ui,sans-serif; margin:0 0 16px; font-size:0.95rem; color:#f5f5f7; letter-spacing:2px; text-transform:uppercase;">Backend</h3>
-<p align="left" style="margin:0;"><img src="https://skillicons.dev/icons?i=nodejs,express,typescript,postgres,supabase,docker&theme=dark" alt="Backend skills" /></p>
+<p align="left" style="margin:0;">
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" style="margin:0 4px 4px 0;" /></a>
+<a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" style="margin:0 4px 4px 0;" /></a>
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=typescript&theme=dark" alt="TypeScript" style="margin:0 4px 4px 0;" /></a>
+<a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" style="margin:0 4px 4px 0;" /></a>
+<a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" style="margin:0 4px 4px 0;" /></a>
+<a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" style="margin:0 4px 4px 0;" /></a>
+</p>
 </div>
 
 </div>
 
 <div style="background:#0b0b0f; border:1px solid #26262e; border-radius:18px; padding:26px 18px; margin-top:20px;">
 <h3 align="center" style="font-family:'Poppins',Inter,system-ui,sans-serif; margin:0 0 16px; font-size:0.95rem; color:#f5f5f7; letter-spacing:2px; text-transform:uppercase;">Tools</h3>
-<p align="left" style="margin:0;"><img src="https://skillicons.dev/icons?i=git,github,pnpm,npm,vercel,postman,androidstudio,linux,figma&theme=dark" alt="Tools" /></p>
+<p align="left" style="margin:0;">
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" style="margin:0 4px 4px 0;" /></a>
+<a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" style="margin:0 4px 4px 0;" /></a>
+<a href="https://pnpm.io"><img src="https://skillicons.dev/icons?i=pnpm&theme=dark" alt="pnpm" style="margin:0 4px 4px 0;" /></a>
+<a href="https://www.npmjs.com"><img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="npm" style="margin:0 4px 4px 0;" /></a>
+<a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" style="margin:0 4px 4px 0;" /></a>
+<a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" style="margin:0 4px 4px 0;" /></a>
+<a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android Studio" style="margin:0 4px 4px 0;" /></a>
+<a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" style="margin:0 4px 4px 0;" /></a>
+<a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" style="margin:0 4px 4px 0;" /></a>
+</p>
 </div>
 
 ## GitHub Stats
