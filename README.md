@@ -13,7 +13,7 @@
 
 <img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/neon-divider.svg?v=1" alt="" width="100%" />
 
-## About Me
+<h3 style="font-family:'Poppins',Inter,system-ui,sans-serif; font-size:1.5em; font-weight:600; margin:24px 0 16px;">About Me</h3>
 
 Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT and web development. I enjoy building responsive, user-friendly web applications and I'm always learning new technologies to deliver better products.
 
@@ -24,7 +24,7 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 
 <img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/neon-divider.svg?v=1" alt="" width="100%" />
 
-## Tech Stack
+<h3 style="font-family:'Poppins',Inter,system-ui,sans-serif; font-size:1.5em; font-weight:600; margin:24px 0 16px;">Tech Stack</h3>
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
@@ -69,7 +69,7 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 </p>
 </div>
 
-## GitHub Stats
+<h3 style="font-family:'Poppins',Inter,system-ui,sans-serif; font-size:1.5em; font-weight:600; margin:24px 0 16px;">GitHub Stats</h3>
 
 <div align="center">
 
@@ -79,7 +79,7 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 
 <img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/neon-divider.svg?v=1" alt="" width="100%" />
 
-## Contributions
+<h3 style="font-family:'Poppins',Inter,system-ui,sans-serif; font-size:1.5em; font-weight:600; margin:24px 0 16px;">Contributions</h3>
 
 <div align="center">
 
@@ -89,7 +89,7 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 
 <img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/neon-divider.svg?v=1" alt="" width="100%" />
 
-## Connect With Me
+<h3 style="font-family:'Poppins',Inter,system-ui,sans-serif; font-size:1.5em; font-weight:600; margin:24px 0 16px;">Connect With Me</h3>
 
 <p>
   <a href="https://github.com/nobel-saputra"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
