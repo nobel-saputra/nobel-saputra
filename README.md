@@ -25,7 +25,7 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
 <div style="flex:1 1 380px; min-width:360px; background:#0b0b0f; border:1px solid #26262e; border-radius:18px; padding:26px 18px;">
-<h3 align="center" style="font-family:'Poppins',Inter,system-ui,sans-serif; margin:0 0 16px; font-size:0.95rem; color:#f5f5f7; letter-spacing:2px; text-transform:uppercase;">Frontend</h3>
+<h3 align="left" style="font-family:'Poppins',Inter,system-ui,sans-serif; margin:0 0 16px; font-size:0.95rem; color:#f5f5f7; letter-spacing:2px; text-transform:uppercase;">Frontend</h3>
 <p align="left" style="margin:0;">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" style="margin:0 4px 4px 0;" /></a>
 <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" style="margin:0 4px 4px 0;" /></a>
@@ -37,7 +37,7 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 </div>
 
 <div style="flex:1 1 380px; min-width:360px; background:#0b0b0f; border:1px solid #26262e; border-radius:18px; padding:26px 18px;">
-<h3 align="center" style="font-family:'Poppins',Inter,system-ui,sans-serif; margin:0 0 16px; font-size:0.95rem; color:#f5f5f7; letter-spacing:2px; text-transform:uppercase;">Backend</h3>
+<h3 align="left" style="font-family:'Poppins',Inter,system-ui,sans-serif; margin:0 0 16px; font-size:0.95rem; color:#f5f5f7; letter-spacing:2px; text-transform:uppercase;">Backend</h3>
 <p align="left" style="margin:0;">
 <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" style="margin:0 4px 4px 0;" /></a>
 <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" style="margin:0 4px 4px 0;" /></a>
@@ -51,7 +51,7 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 </div>
 
 <div style="background:#0b0b0f; border:1px solid #26262e; border-radius:18px; padding:26px 18px; margin-top:20px;">
-<h3 align="center" style="font-family:'Poppins',Inter,system-ui,sans-serif; margin:0 0 16px; font-size:0.95rem; color:#f5f5f7; letter-spacing:2px; text-transform:uppercase;">Tools</h3>
+<h3 align="left" style="font-family:'Poppins',Inter,system-ui,sans-serif; margin:0 0 16px; font-size:0.95rem; color:#f5f5f7; letter-spacing:2px; text-transform:uppercase;">Tools</h3>
 <p align="left" style="margin:0;">
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" style="margin:0 4px 4px 0;" /></a>
 <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" style="margin:0 4px 4px 0;" /></a>
