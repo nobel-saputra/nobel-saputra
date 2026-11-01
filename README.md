@@ -24,21 +24,21 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-<div style="flex:1 1 280px; background:#000000; border:1px solid #26262e; border-radius:18px; padding:26px 18px;">
+<div style="flex:1 1 280px; background:#0b0b0f; border:1px solid #26262e; border-radius:18px; padding:26px 18px;">
 <h3 align="center" style="font-family:Inter,system-ui,sans-serif; margin:0 0 16px; font-size:0.95rem; color:#f5f5f7; letter-spacing:2px; text-transform:uppercase;">Frontend</h3>
-<p align="center" style="margin:0;"><img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/skills-frontend.svg" alt="Frontend skills" /></p>
+<p align="center" style="margin:0;"><img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,reactnative,expo&theme=dark" alt="Frontend skills" /></p>
 </div>
 
-<div style="flex:1 1 280px; background:#000000; border:1px solid #26262e; border-radius:18px; padding:26px 18px;">
+<div style="flex:1 1 280px; background:#0b0b0f; border:1px solid #26262e; border-radius:18px; padding:26px 18px;">
 <h3 align="center" style="font-family:Inter,system-ui,sans-serif; margin:0 0 16px; font-size:0.95rem; color:#f5f5f7; letter-spacing:2px; text-transform:uppercase;">Backend</h3>
-<p align="center" style="margin:0;"><img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/skills-backend.svg" alt="Backend skills" /></p>
+<p align="center" style="margin:0;"><img src="https://skillicons.dev/icons?i=nodejs,express,typescript,postgres,supabase,docker&theme=dark" alt="Backend skills" /></p>
 </div>
 
 </div>
 
-<div style="background:#000000; border:1px solid #26262e; border-radius:18px; padding:26px 18px; margin-top:20px;">
+<div style="background:#0b0b0f; border:1px solid #26262e; border-radius:18px; padding:26px 18px; margin-top:20px;">
 <h3 align="center" style="font-family:Inter,system-ui,sans-serif; margin:0 0 16px; font-size:0.95rem; color:#f5f5f7; letter-spacing:2px; text-transform:uppercase;">Tools</h3>
-<p align="center" style="margin:0;"><img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/skills-tools.svg" alt="Tools" /></p>
+<p align="center" style="margin:0;"><img src="https://skillicons.dev/icons?i=git,github,pnpm,npm,vercel,postman,androidstudio,linux,figma&theme=dark" alt="Tools" /></p>
 </div>
 
 ## GitHub Stats
