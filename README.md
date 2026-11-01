@@ -66,4 +66,3 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
   <a href="https://dribbble.com/nobelsaputra"><img src="https://img.shields.io/badge/Dribbble-000000?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,100:000000&height=100&section=footer" width="100%" />
