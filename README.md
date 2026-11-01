@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/n-logo-dark.svg" />
-  <img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/n-logo.svg" width="140" alt="N logo" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/n-logo-dark.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/n-logo.svg?v=2" width="140" alt="N logo" />
 </picture>
 
 **Developer**
