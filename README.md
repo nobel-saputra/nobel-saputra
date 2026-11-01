@@ -20,6 +20,8 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 - Currently exploring new tools in the JavaScript ecosystem
 - Open to collaboration and freelance projects
 
+<div style="height:1px; background:linear-gradient(90deg, rgba(255,255,255,0), rgba(255,255,255,0.9), rgba(255,255,255,0)); box-shadow:0 0 8px rgba(255,255,255,0.8); margin:32px 0;"></div>
+
 ## Tech Stack
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
@@ -65,6 +67,8 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 </p>
 </div>
 
+<div style="height:1px; background:linear-gradient(90deg, rgba(255,255,255,0), rgba(255,255,255,0.9), rgba(255,255,255,0)); box-shadow:0 0 8px rgba(255,255,255,0.8); margin:32px 0;"></div>
+
 ## GitHub Stats
 
 <div align="center">
@@ -73,6 +77,8 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 
 </div>
 
+<div style="height:1px; background:linear-gradient(90deg, rgba(255,255,255,0), rgba(255,255,255,0.9), rgba(255,255,255,0)); box-shadow:0 0 8px rgba(255,255,255,0.8); margin:32px 0;"></div>
+
 ## Contributions
 
 <div align="center">
@@ -80,6 +86,8 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 <img src="https://ghchart.rshah.org/000000/nobel-saputra" alt="Nobel Saputra's GitHub contribution graph" width="100%" />
 
 </div>
+
+<div style="height:1px; background:linear-gradient(90deg, rgba(255,255,255,0), rgba(255,255,255,0.9), rgba(255,255,255,0)); box-shadow:0 0 8px rgba(255,255,255,0.8); margin:32px 0;"></div>
 
 ## Connect With Me
 
