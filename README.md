@@ -83,7 +83,9 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/contributions-coklat.svg" alt="Nobel Saputra's GitHub contribution graph" width="100%" />
+<img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/contributions-coklat.svg?v=2" alt="Nobel Saputra's GitHub contribution graph" width="100%" />
+
+<p align="center" style="font-family:'Poppins',Inter,system-ui,sans-serif; font-size:1.4em; font-weight:600; color:#c9c9cf; margin:14px 0 0;">107 contributions in the last year</p>
 
 </div>
 

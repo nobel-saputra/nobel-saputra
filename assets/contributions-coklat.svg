@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="774" height="164" viewBox="0 0 774 164" fill="none">
-<rect width="774" height="164" rx="18" fill="#0b0b0f"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="774" height="134" viewBox="0 0 774 134" fill="none">
+<rect width="774" height="134" rx="18" fill="#0b0b0f"/>
 <text x="16" y="20" font-family="Poppins,Inter,system-ui,sans-serif" font-size="9" fill="#9a9aa2">Nov</text>
 <text x="86" y="20" font-family="Poppins,Inter,system-ui,sans-serif" font-size="9" fill="#9a9aa2">Dec</text>
 <text x="142" y="20" font-family="Poppins,Inter,system-ui,sans-serif" font-size="9" fill="#9a9aa2">Jan</text>
@@ -378,5 +378,4 @@
 <rect x="730" y="94" width="10" height="10" rx="4" fill="#6f4822"/>
 <rect x="730" y="108" width="10" height="10" rx="4" fill="#26262e"/>
 <rect x="744" y="24" width="10" height="10" rx="4" fill="#d8a778"/>
-<text x="387" y="156" font-family="Poppins,Inter,system-ui,sans-serif" font-size="15" font-weight="600" fill="#c9c9cf" text-anchor="middle">107 contributions in the last year</text>
 </svg>
