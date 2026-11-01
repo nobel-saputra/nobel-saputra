@@ -1,14 +1,3 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="N">
-  <defs>
-    <filter id="neon" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="2.8" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  <path d="M20 45V19L44 45V19" stroke="#ffffff" stroke-opacity="0.22" stroke-width="16" stroke-linecap="square" stroke-linejoin="miter"/>
-  <path d="M20 45V19L44 45V19" stroke="#ffffff" stroke-opacity="0.45" stroke-width="10" stroke-linecap="square" stroke-linejoin="miter"/>
-  <path d="M20 45V19L44 45V19" stroke="#ffffff" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter" filter="url(#neon)"/>
+  <path d="M20 45V19L44 45V19" stroke="#ffffff" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter"/>
 </svg>

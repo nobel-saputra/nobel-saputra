@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/n-logo-dark.svg?v=2" />
-  <img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/n-logo.svg?v=2" width="140" alt="N logo" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/n-logo-dark.svg?v=3" />
+  <img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/n-logo.svg?v=3" width="140" alt="N logo" />
 </picture>
 
 **Developer**
@@ -10,6 +10,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=560&lines=Building+fast%2C+clean%2C+and+scalable+web+apps;Frontend+%26+Backend+Development;3%2B+years+of+experience+in+web+development" alt="Typing SVG" />
 
 </div>
+
+<img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/neon-divider.svg?v=1" alt="" width="100%" />
 
 ## About Me
 
@@ -20,7 +22,7 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 - Currently exploring new tools in the JavaScript ecosystem
 - Open to collaboration and freelance projects
 
-<div style="height:2px; background:linear-gradient(90deg, rgba(255,255,255,0), #ffffff, rgba(255,255,255,0)); box-shadow:0 0 14px rgba(255,255,255,0.95), 0 0 28px rgba(255,255,255,0.5); margin:32px 0;"></div>
+<img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/neon-divider.svg?v=1" alt="" width="100%" />
 
 ## Tech Stack
 
@@ -75,7 +77,7 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 
 </div>
 
-<div style="height:1px; background:linear-gradient(90deg, rgba(255,255,255,0), rgba(255,255,255,0.9), rgba(255,255,255,0)); box-shadow:0 0 8px rgba(255,255,255,0.8); margin:32px 0;"></div>
+<img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/neon-divider.svg?v=1" alt="" width="100%" />
 
 ## Contributions
 
@@ -85,7 +87,7 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 
 </div>
 
-<div style="height:1px; background:linear-gradient(90deg, rgba(255,255,255,0), rgba(255,255,255,0.9), rgba(255,255,255,0)); box-shadow:0 0 8px rgba(255,255,255,0.8); margin:32px 0;"></div>
+<img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/neon-divider.svg?v=1" alt="" width="100%" />
 
 ## Connect With Me
 
