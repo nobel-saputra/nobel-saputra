@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><a href="https://nobelsaputra.my.id"><img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/website-pill.svg?v=3" alt="nobelsaputra.my.id" /></a></p>
+<p><a href="https://nobelsaputra.my.id"><img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/website-pill.svg?v=4" alt="nobelsaputra.my.id" /></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/n-logo-dark.svg?v=3" />

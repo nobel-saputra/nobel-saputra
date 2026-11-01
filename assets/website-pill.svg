@@ -1,28 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="212" height="38" viewBox="0 0 212 38" fill="none" role="img" aria-label="nobelsaputra.my.id">
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="38" viewBox="0 0 170 38" fill="none" role="img" aria-label="nobelsaputra.my.id">
   <defs>
     <linearGradient id="pill" x1="0" y1="0" x2="0" y2="38" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#16161c"/>
       <stop offset="1" stop-color="#0b0b0f"/>
     </linearGradient>
-    <filter id="soft" x="-20%" y="-60%" width="140%" height="220%">
-      <feGaussianBlur stdDeviation="1.6" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <linearGradient id="iq" x1="17.5" y1="10.5" x2="34.5" y2="27.5" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#d8a778"/>
-      <stop offset="1" stop-color="#6f4822"/>
-    </linearGradient>
   </defs>
-  <rect x="0.75" y="0.75" width="210.5" height="36.5" rx="18.25" fill="url(#pill)" stroke="#3a3a42" stroke-width="1.5"/>
-  <g filter="url(#soft)">
-    <rect x="17.5" y="10.5" width="17" height="17" rx="5.5" fill="url(#iq)"/>
-    <g stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
-      <line x1="21.5" y1="23.5" x2="29.5" y2="15.5"/>
-      <polyline points="23.3,15.2 29.8,15.2 29.8,21.7"/>
-    </g>
-  </g>
-  <text x="44" y="23.5" font-family="Poppins,Inter,sans-serif" font-size="13" font-weight="500" letter-spacing="0.6" fill="#e8e8ee">nobelsaputra.my.id</text>
+  <rect x="0.75" y="0.75" width="168.5" height="36.5" rx="18.25" fill="url(#pill)" stroke="#3a3a42" stroke-width="1.5"/>
+  <text x="85" y="23.5" font-family="Poppins,Inter,sans-serif" font-size="13" font-weight="500" letter-spacing="0.6" fill="#e8e8ee" text-anchor="middle">nobelsaputra.my.id</text>
 </svg>
