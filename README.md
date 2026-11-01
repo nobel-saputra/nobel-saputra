@@ -7,7 +7,7 @@
 
 **Developer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=560&lines=Building+fast%2C+clean%2C+and+scalable+web+apps;Frontend+%26+Backend+Development;3%2B+years+of+experience+in+web+development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&width=560&lines=Building+fast%2C+clean%2C+and+scalable+web+apps;Frontend+%26+Backend+Development" alt="Typing SVG" />
 
 </div>
 
@@ -15,7 +15,7 @@
 
 <h3 align="left" style="font-family:'Poppins',Inter,system-ui,sans-serif; font-size:1.5em; font-weight:600; letter-spacing:2px; margin:24px 0 16px;">ABOUT ME</h3>
 
-Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT and web development. I enjoy building responsive, user-friendly web applications and I'm always learning new technologies to deliver better products.
+Hi, I'm **Nobel Saputra**, a web developer who enjoys building responsive, user-friendly web applications and I'm always learning new technologies to deliver better products.
 
 - Focused on **frontend and backend web development**
 - Interested in **UI design** and clean, maintainable code
