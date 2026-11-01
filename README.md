@@ -83,7 +83,7 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/8B5A2B/nobel-saputra" alt="Nobel Saputra's GitHub contribution graph" width="100%" />
+<img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/main/assets/contributions-coklat.svg" alt="Nobel Saputra's GitHub contribution graph" width="100%" />
 
 </div>
 
