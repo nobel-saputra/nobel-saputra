@@ -7,7 +7,13 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+    <radialGradient id="backdrop" cx="0.5" cy="0.5" r="0.72">
+      <stop offset="0" stop-color="#17171c"/>
+      <stop offset="0.75" stop-color="#101014"/>
+      <stop offset="1" stop-color="#101014" stop-opacity="0"/>
+    </radialGradient>
   </defs>
+  <rect width="64" height="64" rx="18" fill="url(#backdrop)"/>
   <path d="M20 45V19L44 45V19" stroke="#ffffff" stroke-opacity="0.22" stroke-width="16" stroke-linecap="square" stroke-linejoin="miter"/>
   <path d="M20 45V19L44 45V19" stroke="#ffffff" stroke-opacity="0.45" stroke-width="10" stroke-linecap="square" stroke-linejoin="miter"/>
   <path d="M20 45V19L44 45V19" stroke="#ffffff" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter" filter="url(#neon)"/>
