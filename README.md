@@ -47,9 +47,6 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nobel-saputra&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bdbdbd&icon_color=ffffff&ring_color=ffffff&rank_icon=github&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobel-saputra&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bdbdbd&langs_count=6" />
-
 <img src="https://streak-stats.demolab.com?user=nobel-saputra&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=BDBDBD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777&stroke=333333" width="70%" />
 
 </div>
@@ -57,10 +54,9 @@ Hi, I'm **Nobel Saputra**, a web developer with over 3 years of experience in IT
 ## Contributions
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/nobel-saputra/nobel-saputra/output/github-snake.svg" alt="Contribution snake" width="100%" />
-</picture>
+
+<img src="https://ghchart.rshah.org/000000/nobel-saputra" alt="Nobel Saputra's GitHub contribution graph" width="100%" />
+
 </div>
 
 ## Connect With Me
