@@ -13,10 +13,12 @@
     </filter>
   </defs>
   <rect x="0.75" y="0.75" width="210.5" height="36.5" rx="18.25" fill="url(#pill)" stroke="#3a3a42" stroke-width="1.5"/>
-  <g filter="url(#soft)" stroke="#ffffff" stroke-width="1.6" stroke-linecap="round">
-    <circle cx="26" cy="19" r="8.4"/>
-    <ellipse cx="26" cy="19" rx="3.6" ry="8.4"/>
-    <line x1="17.9" y1="19" x2="34.1" y2="19"/>
+  <g filter="url(#soft)">
+    <circle cx="26" cy="19" r="9" fill="#ffffff" opacity="0.10"/>
+    <g stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <line x1="21.5" y1="23.5" x2="29.5" y2="15.5"/>
+      <polyline points="23.3,15.2 29.8,15.2 29.8,21.7"/>
+    </g>
   </g>
   <text x="44" y="23.5" font-family="Poppins,Inter,system-ui,sans-serif" font-size="13" font-weight="500" letter-spacing="0.6" fill="#e8e8ee">nobelsaputra.my.id</text>
 </svg>
